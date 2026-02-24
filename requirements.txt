@@ -1,0 +1,4 @@
+PyQt6
+google-generativeai
+python-dotenv
+nltk
